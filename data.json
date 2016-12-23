@@ -1,0 +1,33 @@
+{
+	"header": "List of Laptop",
+	"result": {
+		"itemId": 1,
+		"name": 1,
+		"dateTime": 1,
+		"attributes.os": 1,
+		"attributes.ram": 1,
+		"attributes.price": 1,
+		"attributes.brand": 1
+	},
+	"parameter": {
+		"category": [
+			"Laptop"
+		],
+		"attributes": {
+			"brand": [
+				"Asus"
+			],
+			"price": [
+				2500.00,
+				1500000000.00
+			]
+		}
+	},
+	"sort": {
+		"attributes.price": 1
+	},
+	"page": 1,
+	"limit": 10,
+	"accessLevel": 1,
+	"footer": "End of List"
+}
